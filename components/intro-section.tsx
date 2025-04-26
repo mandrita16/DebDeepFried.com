@@ -49,7 +49,7 @@ export default function IntroSection({ id }: { id: string }) {
             </span>
           </h2>
           <p className="text-lg text-gray-200 mb-6 leading-relaxed">
-            Meet Debdeep, a comically overconfident individual who thinks he&apos;s a &quot;sigma male&quot; (a la Kabir
+            Meet Debdeep, a comically overconfident individual who thinks he&apos;s a &quot;sigma male&quot; (aka Kabir
             Singh), yet the reality is far from his delusional perception. His world is a fascinating contrast between
             how he sees himself and how others perceive him.
           </p>
