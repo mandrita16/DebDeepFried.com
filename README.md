@@ -11,12 +11,18 @@ To get your own personal Debdeep RoastMaster up and running, follow these steps:
 Clone the Repository 🧑‍💻
 Clone the project to your local machine:
 git clone https://github.com/mandrita16/DebDeepFried.com
+
+
 Install Dependencies 🔌
 Make sure you have pnpm installed. If you don't, you can install it first. Then, use pnpm to install the dependencies:
 pnpm install
+
+
 Run the Project 🚀
 After installing everything, run the project locally with this command:
 pnpm run dev
+
+
 Now, open your browser and get ready to roast Debdeep at http://localhost:3000. The burn zone is ready! 🔥
 
 Disclaimer ⚠️
