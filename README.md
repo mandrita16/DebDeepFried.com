@@ -1,6 +1,7 @@
 # DebDeepFried.com
 Debdeep RoastMaster 🔥😆
 Welcome to Debdeep RoastMaster, the ultimate collection of one-liner roasts, specifically crafted to roast the one and only Debdeep! Get ready for some savage burns and hilarious zingers that are sure to leave him questioning his life choices. 😂
+https://debdeepfried.vercel.app/
 
 Famous Quote for Inspiration 💬
 "You can’t spell ‘Debdeep’ without 'deep'—but no one’s sure what’s deep about it." – Anonymous (but definitely true 🤣)
